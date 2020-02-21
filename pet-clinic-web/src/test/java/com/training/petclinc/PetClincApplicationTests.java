@@ -8,6 +8,7 @@ class PetClincApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("efsdf");
 	}
 
 }
